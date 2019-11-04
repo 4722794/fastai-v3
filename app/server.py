@@ -1,3 +1,5 @@
+pip3 install aiohttp
+
 import aiohttp
 import asyncio
 import uvicorn
